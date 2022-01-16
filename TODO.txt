@@ -1,2 +1,2 @@
 Fix comment linkage in postservice- view single post
-Fix home page views in posts controller- top view(top post in 24 hours and append more if less than pagination)
+Fix home page views in posts controller- top view(top post in 24 hours and append more if less than pagination) --> done
